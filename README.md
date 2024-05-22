@@ -1,8 +1,7 @@
-a silly programmer
-
+# a silly programmer
 programming languages i know: 
 
-[![whatiknow](https://skillicons.dev/icons?i=js,lua)](https://skillicons.dev)
+[![whatiknow](https://skillicons.dev/icons?i=nodejs,lua)](https://skillicons.dev)
 
 programming languages im learning:
 
