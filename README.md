@@ -1,4 +1,2 @@
-## Welcome!
-programming languages i know: 
-
-[![whatiknow](https://skillicons.dev/icons?i=nodejs,lua,c,rust,python)](https://skillicons.dev)
+im bad at talking to people
+[![skills](https://skillicons.dev/icons?i=nodejs,lua,c,rust,python)](https://skillicons.dev)
